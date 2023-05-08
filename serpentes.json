@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Jibóia",
+    "imagem": "./images/jiboia.jpg",
+    "nome-cientifico": "Boa Constrictor",
+    "tamanho": 4,
+    "expectativa-de-vida": 20,
+    "locais": ["Floresta Tropical", "Cerrado", "Caatinga"],
+    "descricao": ""
+  },
+  {
+    "nome": "Coral Falsa",
+    "imagem": "",
+    "nome-cientifico": "",
+    "tamanho": 0,
+    "expectativa-de-vida": 0,
+    "locais": [],
+    "descricao": ""
+  },
+  {
+    "nome": "Jararaca",
+    "imagem": "",
+    "nome-cientifico": "Boa Constrictor",
+    "tamanho": 0,
+    "expectativa-de-vida": 0,
+    "locais": [],
+    "descricao": ""
+  }
+]
